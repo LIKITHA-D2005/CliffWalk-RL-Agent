@@ -27,8 +27,10 @@ An agent learns to navigate a gridworld environment by maximizing rewards while 
 🎮 Demo
 
 <img width="1607" height="619" alt="Cliff walking agent - Q-Learning" src="https://github.com/user-attachments/assets/09bcd199-ef72-476d-959d-39dcbbc4dc45" />
+                                          Cliff Walking Agent : Q - Learning
 
 <img width="1655" height="555" alt="Cliff Walking Agent - SARSA" src="https://github.com/user-attachments/assets/d17730f8-7241-4578-8310-e8cdc73cf727" />
+                                            Cliff Walking Agent - SARSA
 
 📊 Results & Insights
 
