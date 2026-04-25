@@ -25,21 +25,14 @@ An agent learns to navigate a gridworld environment by maximizing rewards while 
 • Learned policy visualization
 
 🎮 Demo
-<figure>
+
 <img width="1607" height="619" alt="Cliff walking agent - Q-Learning" src="https://github.com/user-attachments/assets/09bcd199-ef72-476d-959d-39dcbbc4dc45" />
-<figcaption>Cliff walking agent - Q-Learning</figcaption>
-</figure>
 
-
-
-<figure>
 <img width="1655" height="555" alt="Cliff Walking Agent - SARSA" src="https://github.com/user-attachments/assets/d17730f8-7241-4578-8310-e8cdc73cf727" />
-<figcaption>Cliff Walking Agent - SARSA</figcaption>
-</figure>
+
                                             
 
 📊 Results & Insights
-
 • SARSA learns a safer policy, avoiding the cliff
 • Q-Learning finds the optimal shortest path but may fall during training
 • Demonstrates the trade-off between exploration and exploitation
